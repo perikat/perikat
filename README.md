@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @perikat
-- 👀 I’m interested in react , javascript.
+- 👀 I’m interested in webdev , javascript.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on some projects related to that.
 - 📫 How to reach me ...
